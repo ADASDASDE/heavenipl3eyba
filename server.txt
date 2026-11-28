@@ -1,4 +1,4 @@
 # Heaven City server address
-host=51.68.107.75
-port=21496
-verifyport=21497
+host=51.38.205.167
+port=10638
+verifyport=10639
